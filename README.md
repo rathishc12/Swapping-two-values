@@ -19,18 +19,22 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-def circulate():
-    l=eval(input())
-    n=int(input())
-    l=l[n:]+l[:n]
-    print("After circulating the values are:",l)
+#Program to swap two values.
+#Developed by:Rathish Kumar c 
+#RegisterNumber:22009283
+num1,num2=int(input()),int(input())
+temp=num1
+num1=num2
+num2=temp
+print("Swapped values are:",num1,num2)
 ```
 
 
 
 ### OUTPUT:
-!
-![criculate](https://user-images.githubusercontent.com/120539398/213844626-81710cfb-7ff8-4be6-83db-739e807972ae.png)
+
+![swapof2variable](https://user-images.githubusercontent.com/120539398/213844733-13ae06a7-59bf-46b0-8ac8-1a1282f514d5.png)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
