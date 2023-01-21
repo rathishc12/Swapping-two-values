@@ -29,7 +29,8 @@ def circulate():
 
 
 ### OUTPUT:
-![swappingof2variables](https://user-images.githubusercontent.com/120539398/209550883-6c6ec8bf-e812-4fb0-b71f-f8b3078797c7.png)
+!
+![criculate](https://user-images.githubusercontent.com/120539398/213844626-81710cfb-7ff8-4be6-83db-739e807972ae.png)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
